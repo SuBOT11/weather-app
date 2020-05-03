@@ -20,8 +20,6 @@ const updateUI = (data) => {
 
  
 
-  
-
   let timeSrc = null;
   if (weather.IsDayTime) {
     timeSrc = "img/day.svg";
